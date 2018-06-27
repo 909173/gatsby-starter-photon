@@ -16,6 +16,9 @@
     "gatsby-source-filesystem": "^1.5.27",
     "gatsby-transformer-remark": "^1.7.39",
     "gatsby-transformer-sharp": "^1.6.22",
+    "gatsby-plugin-netlify": "^1.0.19",
+    "gatsby-plugin-netlify-cms": "^1.0.9",
+    "netlify-cms": "^1.7.0",
     "lodash": "^4.17.5"
   },
   "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",

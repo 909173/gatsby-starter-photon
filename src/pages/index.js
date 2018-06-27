@@ -109,7 +109,7 @@ class Homepage extends React.Component {
 }
 
 Homepage.propTypes = {
-    route: React.PropTypes.object
+    // route: React.PropTypes.object
 };
 
 export default Homepage;
